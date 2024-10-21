@@ -1,0 +1,14 @@
+# 必要なパッケージ等
+requrirements.txtに記載
+
+# ROSパッケージのビルドのために変更が必要なファイル
+/home/$USER_NAME/DiaROS/DiaROS_ros/build/interfaces/CMakeCache.txt
+/home/$USER_NAME/DiaROS/DiaROS_ros/build/interfaces/cmake_install.cmake
+/home/$USER_NAME/DiaROS/DiaROS_ros/build/interfaces/CTestConfiguration.ini
+/home/$USER_NAME/DiaROS/DiaROS_ros/build/interfaces/CTestTestfile.cmake
+/home/$USER_NAME/DiaROS/DiaROS_ros/build/interfaces/install_manifest.txt
+/home/$USER_NAME/DiaROS/DiaROS_ros/build/interfaces/Makefile
+上記6ファイルの$USER_NAMEに当たる部分を自分のuser_nameに変更
+
+# /home/$USER_NAME/ros2_foxy/ros2-linux/local_setup.bash が存在しない
+代わりに/opt/ros/foxy/local_setup.bashの実行で問題ないと思われる

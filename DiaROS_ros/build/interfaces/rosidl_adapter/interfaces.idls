@@ -1,7 +1,7 @@
-/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/List.idl
-/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Iasr.idl
-/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Isa.idl
-/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Irc.idl
-/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Inlg.idl
-/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Iss.idl
-/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Imm.idl
+/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/List.idl
+/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Iasr.idl
+/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Isa.idl
+/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Irc.idl
+/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Inlg.idl
+/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Iss.idl
+/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Imm.idl

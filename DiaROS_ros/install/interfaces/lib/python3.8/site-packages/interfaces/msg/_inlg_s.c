@@ -95,7 +95,7 @@ PyObject * interfaces__msg__inlg__convert_to_py(void * raw_ros_message)
     field = PyUnicode_DecodeUTF8(
       ros_message->reply.data,
       strlen(ros_message->reply.data),
-      "strict");
+      "replace");
     if (!field) {
       return NULL;
     }

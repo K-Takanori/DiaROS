@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/diasys/DiaROS/DiaROS_ros/src/interfaces
+CMAKE_SOURCE_DIR = /home/sds/DiaROS/DiaROS_ros/src/interfaces
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/diasys/DiaROS/DiaROS_ros/build/interfaces
+CMAKE_BINARY_DIR = /home/sds/DiaROS/DiaROS_ros/build/interfaces
 
 # Utility rule file for interfaces__cpp.
 
@@ -117,8 +117,8 @@ rosidl_generator_cpp/interfaces/msg/list.hpp: rosidl_adapter/interfaces/msg/Irc.
 rosidl_generator_cpp/interfaces/msg/list.hpp: rosidl_adapter/interfaces/msg/Inlg.idl
 rosidl_generator_cpp/interfaces/msg/list.hpp: rosidl_adapter/interfaces/msg/Iss.idl
 rosidl_generator_cpp/interfaces/msg/list.hpp: rosidl_adapter/interfaces/msg/Imm.idl
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/diasys/DiaROS/DiaROS_ros/build/interfaces/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating C++ code for ROS interfaces"
-	/home/diasys/.pyenv/shims/python3 /opt/ros/foxy/share/rosidl_generator_cpp/cmake/../../../lib/rosidl_generator_cpp/rosidl_generator_cpp --generator-arguments-file /home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_generator_cpp__arguments.json
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/sds/DiaROS/DiaROS_ros/build/interfaces/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating C++ code for ROS interfaces"
+	/home/sds/.pyenv/shims/python3 /opt/ros/foxy/share/rosidl_generator_cpp/cmake/../../../lib/rosidl_generator_cpp/rosidl_generator_cpp --generator-arguments-file /home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_generator_cpp__arguments.json
 
 rosidl_generator_cpp/interfaces/msg/detail/list__builder.hpp: rosidl_generator_cpp/interfaces/msg/list.hpp
 	@$(CMAKE_COMMAND) -E touch_nocreate rosidl_generator_cpp/interfaces/msg/detail/list__builder.hpp
@@ -272,6 +272,6 @@ CMakeFiles/interfaces__cpp.dir/clean:
 .PHONY : CMakeFiles/interfaces__cpp.dir/clean
 
 CMakeFiles/interfaces__cpp.dir/depend:
-	cd /home/diasys/DiaROS/DiaROS_ros/build/interfaces && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/diasys/DiaROS/DiaROS_ros/src/interfaces /home/diasys/DiaROS/DiaROS_ros/src/interfaces /home/diasys/DiaROS/DiaROS_ros/build/interfaces /home/diasys/DiaROS/DiaROS_ros/build/interfaces /home/diasys/DiaROS/DiaROS_ros/build/interfaces/CMakeFiles/interfaces__cpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/sds/DiaROS/DiaROS_ros/build/interfaces && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/sds/DiaROS/DiaROS_ros/src/interfaces /home/sds/DiaROS/DiaROS_ros/src/interfaces /home/sds/DiaROS/DiaROS_ros/build/interfaces /home/sds/DiaROS/DiaROS_ros/build/interfaces /home/sds/DiaROS/DiaROS_ros/build/interfaces/CMakeFiles/interfaces__cpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/interfaces__cpp.dir/depend
 

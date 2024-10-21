@@ -6,5 +6,5 @@ C_FLAGS = -fPIC -fPIC   -Wall -std=gnu11
 
 C_DEFINES = -DRCUTILS_ENABLE_FAULT_INJECTION -DROS_PACKAGE_NAME=\"interfaces\" -Dinterfaces__rosidl_typesupport_introspection_c_EXPORTS
 
-C_INCLUDES = -I/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_generator_c -I/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_typesupport_introspection_c -isystem /opt/ros/foxy/include 
+C_INCLUDES = -I/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_generator_c -I/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_typesupport_introspection_c -isystem /opt/ros/foxy/include 
 

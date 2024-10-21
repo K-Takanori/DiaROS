@@ -1,12 +1,12 @@
 {
   "package_name": "interfaces",
   "non_idl_tuples": [
-    "/home/diasys/DiaROS/DiaROS_ros/src/interfaces:msg/List.msg",
-    "/home/diasys/DiaROS/DiaROS_ros/src/interfaces:msg/Iasr.msg",
-    "/home/diasys/DiaROS/DiaROS_ros/src/interfaces:msg/Isa.msg",
-    "/home/diasys/DiaROS/DiaROS_ros/src/interfaces:msg/Irc.msg",
-    "/home/diasys/DiaROS/DiaROS_ros/src/interfaces:msg/Inlg.msg",
-    "/home/diasys/DiaROS/DiaROS_ros/src/interfaces:msg/Iss.msg",
-    "/home/diasys/DiaROS/DiaROS_ros/src/interfaces:msg/Imm.msg"
+    "/home/sds/DiaROS/DiaROS_ros/src/interfaces:msg/List.msg",
+    "/home/sds/DiaROS/DiaROS_ros/src/interfaces:msg/Iasr.msg",
+    "/home/sds/DiaROS/DiaROS_ros/src/interfaces:msg/Isa.msg",
+    "/home/sds/DiaROS/DiaROS_ros/src/interfaces:msg/Irc.msg",
+    "/home/sds/DiaROS/DiaROS_ros/src/interfaces:msg/Inlg.msg",
+    "/home/sds/DiaROS/DiaROS_ros/src/interfaces:msg/Iss.msg",
+    "/home/sds/DiaROS/DiaROS_ros/src/interfaces:msg/Imm.msg"
   ]
 }

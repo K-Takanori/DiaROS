@@ -1,15 +1,15 @@
 {
   "package_name": "interfaces",
-  "output_dir": "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_generator_py/interfaces",
+  "output_dir": "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_generator_py/interfaces",
   "template_dir": "/opt/ros/foxy/share/rosidl_generator_py/cmake/../resource",
   "idl_tuples": [
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/List.idl",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Iasr.idl",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Isa.idl",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Irc.idl",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Inlg.idl",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Iss.idl",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Imm.idl"
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/List.idl",
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Iasr.idl",
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Isa.idl",
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Irc.idl",
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Inlg.idl",
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Iss.idl",
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces:msg/Imm.idl"
   ],
   "target_dependencies": [
     "/opt/ros/foxy/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py",
@@ -25,12 +25,12 @@
     "/opt/ros/foxy/share/rosidl_generator_py/cmake/../resource/_msg.py.em",
     "/opt/ros/foxy/share/rosidl_generator_py/cmake/../resource/_srv_pkg_typesupport_entry_point.c.em",
     "/opt/ros/foxy/share/rosidl_generator_py/cmake/../resource/_srv.py.em",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/List.idl",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/Iasr.idl",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/Isa.idl",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/Irc.idl",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/Inlg.idl",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/Iss.idl",
-    "/home/diasys/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/Imm.idl"
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/List.idl",
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/Iasr.idl",
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/Isa.idl",
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/Irc.idl",
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/Inlg.idl",
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/Iss.idl",
+    "/home/sds/DiaROS/DiaROS_ros/build/interfaces/rosidl_adapter/interfaces/msg/Imm.idl"
   ]
 }

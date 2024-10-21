@@ -104,7 +104,7 @@ PyObject * interfaces__msg__iasr__convert_to_py(void * raw_ros_message)
     field = PyUnicode_DecodeUTF8(
       ros_message->you.data,
       strlen(ros_message->you.data),
-      "strict");
+      "replace");
     if (!field) {
       return NULL;
     }
